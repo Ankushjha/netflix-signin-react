@@ -1,0 +1,5 @@
+.bgGrad {
+    background-image:
+    linear-gradient(#000000d4, #110f0f7b, #000000d4),
+    url('../assets/images/main-background.jpg');
+}
